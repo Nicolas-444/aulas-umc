@@ -18,6 +18,7 @@ Cachorro: R$250.00, desconto de 43%
 Teclado: R$180.00, desconto de 67%
 =========================================
 '''
+print(tit)
 
 
 escolha = int(input('Escolha: (1)Bis - (2Cachorro - (3)Teclado: '))
@@ -57,5 +58,6 @@ else:
     print('ERROR')
 
     
+
 
 
